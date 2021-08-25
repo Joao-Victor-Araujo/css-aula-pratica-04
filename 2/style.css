@@ -1,0 +1,25 @@
+div {
+    width: 300px;
+    height: 300px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#box1 {
+    background-color: rgb(24, 0, 0);
+    float: left;
+}
+
+
+#box2 {
+    background-color: rgb(32, 15, 182);
+    float: left;
+}
+
+
+#box3 {
+    background-color: rgb(0, 223, 30);
+    float: left;
+}  

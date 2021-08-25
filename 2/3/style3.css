@@ -1,0 +1,20 @@
+#box1 {
+    width: 500px;
+    height: 450px;
+    background-color: gray;
+    padding: 10px;
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 20px;
+}
+
+#box2 {
+    width: 400px;
+    height: 350px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    margin-left: 80px;
+}  

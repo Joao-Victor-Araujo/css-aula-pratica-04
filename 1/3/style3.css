@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+#caixa_com_box_model_01{
+    width: 345px;
+    padding: 20;
+    border-width: 7px;
+    border-style: dotted;
+    border-color: rgb(139,0,139);
+    margin: 15px;
+    background-color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    color: rgb(25,25,112);
+    text-align: right;
+}
